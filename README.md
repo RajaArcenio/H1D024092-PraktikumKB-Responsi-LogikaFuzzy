@@ -53,12 +53,11 @@ python [nama_file_proyek].py
 ```
 
 ## 📖 Cara Menggunakan
-
-### 1. Pada halaman **Welcome**, klik tombol **Mulai Analisis**.
-### 2. Masukkan data inventaris pada halaman **Input**. Perhatikan instruksi di atas setiap kolom input agar data yang dimasukkan valid (angka dalam rentang yang ditentukan).
-### 3. Klik **Hitung Rekomendasi**. Jika input valid, sistem akan mengarahkan ke halaman Output.
-### 4. Lihat hasil persentase diskon yang disarankan berdasarkan analisis logika fuzzy.
-### 5. Klik **Ulangi Analisis** untuk mengecek produk lain atau **Keluar Program** untuk selesai.
+1. Pada halaman **Welcome**, klik tombol **Mulai Analisis**.
+2. Masukkan data inventaris pada halaman **Input**. Perhatikan instruksi di atas setiap kolom input agar data yang dimasukkan valid (angka dalam rentang yang ditentukan).
+3. Klik **Hitung Rekomendasi**. Jika input valid, sistem akan mengarahkan ke halaman Output.
+4. Lihat hasil persentase diskon yang disarankan berdasarkan analisis logika fuzzy.
+5. Klik **Ulangi Analisis** untuk mengecek produk lain atau **Keluar Program** untuk selesai.
 
 ## 📝 Detail Teknis (Fuzzy Rules)
 Sistem ini menggunakan 27 aturan untuk memastikan tidak ada celah logika. Contoh aturan utama:
