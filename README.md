@@ -1,4 +1,4 @@
-# Sistem Pakar Penentuan Diskon produk
+# Penerapa Logika Fuzzy Untuk Menentukan Diskon produk
 
 Aplikasi desktop berbasis Python yang menggunakan **Logika Fuzzy (Fuzzy Logic)** untuk menentukan strategi diskon produk secara dinamis. Sistem ini dirancang untuk membantu pemilik bisnis atau manajer gudang dalam mengoptimalkan perputaran stok dan meminimalisir kerugian akibat barang yang mengendap terlalu lama (*deadstock*).
 
