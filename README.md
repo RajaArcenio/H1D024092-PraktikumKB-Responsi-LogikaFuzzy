@@ -44,12 +44,12 @@ git clone [https://github.com/username/smart-pricing-fuzzy.git](https://github.c
 
 ### 2. Masuk ke direktori proyek:
 ```bash
-cd smart-pricing-fuzzy
+cd [nama_direktori]
 ```
 
 ### 3. Jalankan aplikasi:
 ```bash
-python main.py
+python [nama_file_proyek].py
 ```
 
 ## 📖 Cara Menggunakan
@@ -64,4 +64,3 @@ python main.py
 Sistem ini menggunakan 27 aturan untuk memastikan tidak ada celah logika. Contoh aturan utama:
 - **IF** Stok Banyak **AND** Masa Simpan Kritis **AND** Penjualan Lambat **THEN** Diskon Besar.
 - **IF** Stok Sedikit **AND** Masa Simpan Lama **AND** Penjualan Cepat **THEN** Diskon Sedikit.
-
